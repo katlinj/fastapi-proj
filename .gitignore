@@ -6,7 +6,7 @@
 
 ### Database Files ###
 *.sqlite3
-*.db
+
 
 ### macOS ###
 # General
